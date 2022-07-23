@@ -1,8 +1,8 @@
 # Data-Hiding-in-Image
 A project based on hiding the data in an image file using LSB steganography. To compress the data Huffman Encoding is used and RSA cryptography algorithm is used to provide additional security.
 
-![Old Image](https://user-images.githubusercontent.com/85149912/180600915-0866fe18-707e-46f8-bbb1-3e64aaafec79.jpg)
+![Old_Image](https://user-images.githubusercontent.com/85149912/180600969-73be47b9-5393-4182-89d3-db830e1aed81.jpg)
 
-[Data To Be Hidden.txt](https://github.com/Vipul-Chawla/Data-Hiding-in-Image/files/9173537/Data.To.Be.Hidden.txt)
+[Data_To_Be_Hidden.txt](https://github.com/Vipul-Chawla/Data-Hiding-in-Image/files/9173539/Data_To_Be_Hidden.txt)
 
-![Image with Hidden Data](https://user-images.githubusercontent.com/85149912/180600917-574e96b2-5f1d-41fa-94c3-b090eee43c80.png)
+![Image_with_Hidden_Data](https://user-images.githubusercontent.com/85149912/180600977-f2d670d4-3cc9-4acc-8b50-e61a8c14490c.png)
